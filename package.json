@@ -8,6 +8,6 @@
     "jasmine": "^3.1.0"
   },
   "scripts": {
-    "test_jas": "jasmine in.js"
+    "test": "jasmine in.js"
   }
 }
