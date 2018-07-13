@@ -10,7 +10,7 @@
     "jasmine": "^3.1.0"
   },
   "scripts": {
-    "test": "eslint . & jasmine in.js"
+    "test": "eslint ."
   },
   "dependencies": {
     "eslint": "^5.1.0",
