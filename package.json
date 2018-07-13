@@ -9,5 +9,8 @@
   },
   "scripts": {
     "test": "jasmine in.js"
+  },
+  "dependencies": {
+    "eslint": "^5.1.0"
   }
 }
