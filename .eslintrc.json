@@ -2,9 +2,12 @@
     "env": {
         "browser": true,
         "commonjs": true,
-        "es6": true
+        "es6": true,
+        "jasmine": true
     },
-    "extends": "airbnb",
+    "extends": [
+        "airbnb"
+    ],
     "parserOptions": {
         "ecmaFeatures": {
             "jsx": true
@@ -13,7 +16,8 @@
         "sourceType": "module"
     },
     "plugins": [
-        "react"
+        "react",
+        "jasmine"
     ],
     "rules": {
         "accessor-pairs": "error",
