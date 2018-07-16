@@ -6,4 +6,4 @@ const factorial = (n) => {
     }
     return product;
   }
-exports = factorial;
+module.exports = factorial;
