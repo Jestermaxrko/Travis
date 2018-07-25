@@ -9,7 +9,7 @@ To register users server recieves object like this:
 }
 
 After successfull registration user object is:  
-{
+<pre>{
 	_id:
 	nickname: 
 	email:
@@ -17,6 +17,7 @@ After successfull registration user object is:
 	passwordConf:
 	isAdmin:
 }
+</pre>
 
 In case of succes login or register server sends user object
 In case of error - error object
