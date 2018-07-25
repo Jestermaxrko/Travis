@@ -19,9 +19,9 @@ After successfull registration user object is:
 }
 </pre>
 
-In case of succes login or register server sends user object
-In case of error - error object
+In case of succes login or register server sends user object <br>
+In case of error - error object <br>
 
-To get user object: <strong>response.user</strong>;
-To get error : <strong>response.error</strong>;
+To get user object: <strong>response.user</strong>; <br>
+To get error : <strong>response.error</strong>; <br>
 
